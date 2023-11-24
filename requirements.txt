@@ -1,0 +1,8 @@
+opencv-python
+fastai -q --upgrade
+fastapi
+"uvicorn[standard]"
+python-multipart
+streamlit
+watchdog
+
