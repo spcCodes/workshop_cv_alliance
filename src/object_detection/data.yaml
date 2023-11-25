@@ -1,0 +1,10 @@
+path: /content/drive/MyDrive/alliance_university/object_detection/
+train: /content/drive/MyDrive/alliance_university/object_detection/datasets/images/train
+val: /content/drive/MyDrive/alliance_university/object_detection/datasets/images/validation
+
+nc: 3
+
+names:
+  0: head
+  1: helmet
+  2: person
